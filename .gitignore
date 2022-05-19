@@ -1,0 +1,6 @@
+*.env
+*pyc
+dbsqlite3
+*__pyc__*
+media
+sent_mail
